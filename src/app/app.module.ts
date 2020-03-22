@@ -14,6 +14,8 @@ import { BreadcrumsComponent } from './shared/breadcrums/breadcrums.component';
 import { PagesComponent } from './pages/pages.component';
 import { RegisterComponent } from './login/register.component';
 
+//Commit changes
+
 @NgModule({
   declarations: [
     AppComponent,
